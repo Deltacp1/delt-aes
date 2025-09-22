@@ -1,6 +1,6 @@
 # delt-aes
 
-# Criptografia AES-256-CBC em Python
+## Criptografia AES-256-CBC em Python
 
 Este projeto implementa um programa simples de criptografia e descriptografia de arquivos utilizando o algoritmo **AES-256** no modo **CBC**, com derivação de chave via **PBKDF2**.
 
@@ -20,14 +20,14 @@ pip install cryptography
 ```
 ---
 
-##Instale o código
+## Instale o código
 
 Clone este repositório ou baixe o arquivo delt-aes
 ```bash
 git clone https://github.com/deltacp1/delt-aes/cripto_aes.git
 cd cripto_aes
 ```
-##Modo de utilizar
+## Modo de utilizar
 
 ```bash
 python cripto_aes.py <operacao> <arquivo_e> <arquivo_s> <key>
