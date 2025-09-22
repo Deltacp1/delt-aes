@@ -37,6 +37,16 @@ python cripto_aes.py <operacao> <arquivo_e> <arquivo_s> <key>
 - arquivo_s -> o caminho pro arquivo da saida
 - key -> senha para derivar chave AES
 
+##Exemplo de utilização para cifrar
+
+```bash
+python cripto_aes.py cifrar exemplo.txt mens.enc secret_key
+```
+##Exemplo de utilização para cifrar
+
+```bash
+python cripto_aes.py decifrar mens.enc exemplo_decif.txt secret_key
+```
 
 
 
