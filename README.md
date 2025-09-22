@@ -32,10 +32,10 @@ cd cripto_aes
 ```bash
 python cripto_aes.py <operacao> <arquivo_e> <arquivo_s> <key>
 ```
-operação -> escolhida entre decifrar ou cifrar
-arquivo_e -> o caminho do arquivo que vai ser processado
-arquivo_s -> o caminho pro arquivo da saida
-key -> senha para derivar chave AES
+- operação -> escolhida entre decifrar ou cifrar
+- arquivo_e -> o caminho do arquivo que vai ser processado
+- arquivo_s -> o caminho pro arquivo da saida
+- key -> senha para derivar chave AES
 
 
 
