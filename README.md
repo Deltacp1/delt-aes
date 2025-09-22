@@ -24,7 +24,7 @@ pip install cryptography
 
 Clone este repositório ou baixe o arquivo delt-aes
 ```bash
-git clone https://github.com/deltacp1/delt-aes/cripto_aes.git
+git clone https://github.com/deltacp1/delt-aes/
 cd cripto_aes
 ```
 ## Modo de utilizar
