@@ -17,3 +17,7 @@ Instale a dependência com:
 
 ```bash
 pip install cryptography
+
+---
+
+#
