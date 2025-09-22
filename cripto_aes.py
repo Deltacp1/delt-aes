@@ -67,7 +67,7 @@ def decifrar(entrada, saida, chave):
 
 def main():
     if len(sys.argv) != 5:
-        print("Uso: python crypto_cbc.py <cifrar|decifrar> <entrada> <saida> <chave>")
+        print("Uso: python cripto_aes.py <cifrar|decifrar> <entrada> <saida> <chave>")
         sys.exit(1)
 
     operacao, entrada, saida, chave = sys.argv[1:]
